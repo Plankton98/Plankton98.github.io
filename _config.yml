@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "범스턴"
-  avatar           : "assets/images/담곰1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/담곰1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이세계 구축범"
   location         : "Seoul"
   email            : "antodanfdy@naver.com"
