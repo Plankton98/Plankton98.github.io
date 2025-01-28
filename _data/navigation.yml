@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "[소개글]"
+    url: /about/
   - title: "[글 전체보기]"
     url: /posts/
   - title: "[카테고리]"
     url: /categories/
   - title: "[태그]"
     url: /tags/
-  - title: "About Me"
-    url: /about/
 
 
 side-bar:
