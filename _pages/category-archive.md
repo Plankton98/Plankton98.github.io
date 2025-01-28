@@ -5,6 +5,7 @@ permalink: /categories/
 author_profile: true
 toc: true
 related: false
+search: false
 ---
 <br>
 
