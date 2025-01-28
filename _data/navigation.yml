@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "포스팅"
+  - title: "포스팅11"
     url: /posts/
   - title: "카테고리"
     url: /categories/
@@ -9,7 +9,7 @@ main:
 
 
 side-bar:
-  - title: Getting Started
+  - title: "Getting Started"
     children:
       - title: "테스트1"
         url: /categories/
