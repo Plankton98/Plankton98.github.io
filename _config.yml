@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "범스턴 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "블로그"
-description              : "현실도피를 위한 이세계 구축 기지"
+name                     : "범스턴"
+description              : "현실도피를 위한 이세계 구축 기지를 세웁니다."
 url                      : "https://Plankton98.github.io"
 baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
