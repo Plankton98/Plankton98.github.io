@@ -3,7 +3,7 @@ main:
   - title: "[소개글]"
     url: /about/
   - title: "[글 전체보기]"
-    url: /splash/
+    url: /splash-page/
   - title: "[카테고리]"
     url: /categories/
 #  - title: "[태그]"

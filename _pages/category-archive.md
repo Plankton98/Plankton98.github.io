@@ -7,9 +7,8 @@ toc: true
 related: false
 search: false
 ---
-<br>
 
-카테고리 별로 게시글 모아볼 수 있습니다.
+[공사중]
 --------------------------------
 
 <br><br>
