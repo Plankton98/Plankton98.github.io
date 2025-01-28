@@ -8,10 +8,3 @@ main:
     url: /categories/
   - title: "[태그]"
     url: /tags/
-
-
-side-bar:
-  - title: "Getting Started"
-    children:
-      - title: "테스트1"
-        url: /categories/
