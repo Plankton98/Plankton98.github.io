@@ -6,8 +6,7 @@ author_profile: true
 toc: true
 related: false
 ---
-
-<br><br>
+<br>
 
 카테고리 별로 게시글 모아볼 수 있습니다.
 --------------------------------
