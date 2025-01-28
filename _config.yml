@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "블로그"
 description              : "현실도피를 위한 이세계 구축 기지"
 url                      : "https://Plankton98.github.io"
-baseurl                  : "/Plankton98-Blog"
+baseurl                  : # /Plankton98-Blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
